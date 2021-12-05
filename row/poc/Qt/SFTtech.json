@@ -1,0 +1,102 @@
+[
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1438",
+        "Name": "Python 3.10 breaks build"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1435",
+        "Name": "Make fails with python/cython error: undefined reference to pthread_*, sem_*, dl*"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1433",
+        "Name": "Cannot specify compile definitions for target \"SDL2::SDL2\" which is not built by this project"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1431",
+        "Name": "Introduce Type hinting"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1423",
+        "Name": "Display conversion progress"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1412",
+        "Name": "Implement Activity"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1377",
+        "Name": "New Gamestate: Drafts"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1376",
+        "Name": "Speed up PNG compression trials with in-memory files"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1371",
+        "Name": "Speed up converter texture packing with Cython"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1370",
+        "Name": "Use cython fused types (templated functions) to remove redundancy from smp.pyx and smx.pyx"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1369",
+        "Name": "Speed up converter terrain merging with Cython"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1344",
+        "Name": "More informative KeyError messages in converter"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1343",
+        "Name": "Enhance output summary of converter run for debugging"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1322",
+        "Name": "Debian package"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1315",
+        "Name": "Split converted data into multiple modpacks"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1313",
+        "Name": "Parse nyan API objects in converter instead of hardcoding them"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1307",
+        "Name": "Generic nyan conversion processor"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1300",
+        "Name": "Crash on launch on sway/wayland"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1297",
+        "Name": "Use bicubic filtering to reverse dimetric projection"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1289",
+        "Name": "Age of Empires 2: HD Edition modpack support"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1288",
+        "Name": "Age of Empires 1: Definitive Edition new features support"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1286",
+        "Name": "Document .dat specification"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1285",
+        "Name": "DDS parsing and exporting"
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1279",
+        "Name": "Crash when using \"4321\" as generation seed."
+    },
+    {
+        "Link": "https://github.com/SFTtech/openage/issues/1274",
+        "Name": "Advanced Flare System for Minimap"
+    }
+]
